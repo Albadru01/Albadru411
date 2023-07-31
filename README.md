@@ -10,7 +10,7 @@
 - Power BI 🔥: I create eye-catching visualizations that tell captivating data stories and make stakeholders go "Wow!"
 - Tableau 📈: Proficient in using Tableau to build interactive and intuitive data dashboards for powerful data exploration.
 
-📫 Reach me via email: alhamisbadru@gmail.com@gmail.com
+📫 Reach me via email: alhamisbadru@gmail.com
 
 
 <!---
